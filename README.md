@@ -15,3 +15,4 @@ The program can be written in either Python or Java.
 [1] [https://www.w3.org/TR/2003/REC-PNG-20031110/iso_8859-1.txt](https://www.w3.org/TR/2003/REC-PNG-20031110/iso_8859-1.txt)
 
 ## !Program must be run in the main.py file!
+## !Output results for both tasks can be found in Output directory!
