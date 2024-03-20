@@ -13,3 +13,5 @@ The goal of this assignment is to implement a program that downloads a specific 
 The program can be written in either Python or Java.
 
 [1] [https://www.w3.org/TR/2003/REC-PNG-20031110/iso_8859-1.txt](https://www.w3.org/TR/2003/REC-PNG-20031110/iso_8859-1.txt)
+
+## !Program must be run in the main.py file!
